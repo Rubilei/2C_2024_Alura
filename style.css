@@ -3,12 +3,13 @@ header{
     color: white;
 }
 .cabeçalho{
-    width: 5%;
+    width: 10%;
 }
 h1{
     color: black;
+    text-align: center;
     href='https://fonts.googleapis.com/css?family=Hurricane' rel='stylesheet'>
     font-family: 'Hurricane';font-size: 22px;
-    text-align: justify;
+   
 
 }
