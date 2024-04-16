@@ -16,7 +16,8 @@
 
 }
 .cabecalho_imagem{
-    width: 10%;
+    width: 15%;
+    align-items: last baseline;
 }
 .cabecalho_lista{
     display: inline-block;
