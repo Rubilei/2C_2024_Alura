@@ -6,7 +6,8 @@ header{
     flex-direction: column-reverse;
 
 }
-.cabeçalho{
+.cabecalho{
+    display:flex
     width: 10%;
 }
 h1{
