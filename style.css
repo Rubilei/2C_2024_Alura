@@ -1,20 +1,8 @@
-header{
+.cabecalho{
     background-color: #2D9596;
     color: white;
     display: flex;
-    justify-content: flex-end;
-    flex-direction: column-reverse;
-
 }
-.cabecalho{
-    display:flex
-    width: 10%;
-}
-h1{
-    color: black;
-    text-align: center;
-    href='https://fonts.googleapis.com/css?family=Hurricane' rel='stylesheet'>
-    font-family: 'Hurricane';font-size: 22px;
-   
-
+.cabecalho_imagem{
+    width: 20%;
 }
