@@ -27,13 +27,15 @@
     background-image: linear-gradient(to bottom, #9AD0C2, #99CFC1, #4E6A63);
     color: white;
     display: flex;
-    justify-content: space-around;
+    justify-content:;
     align-items: center;
     padding: 15px 0;
 }
 .corpo_imagem{
     width: 35%;
 }
-.corpo_paragrafo{
-   text-align: justify;
+.corpo_textos{
+    display: flex;
+    flex-direction: column-reverse;
+  
 }
