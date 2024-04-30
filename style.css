@@ -42,6 +42,6 @@
     align-items: baseline; 
 }
 .corpo_paragrafo{
-    padding: 15px 0;
+    margin:  15px 0;
     text-align: justify;
 }
