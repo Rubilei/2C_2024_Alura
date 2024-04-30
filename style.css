@@ -23,3 +23,7 @@
     display: inline-block;
     margin: 0 16px;
 }
+.corpo{
+    background-image: linear-gradient(to bottom, #9AD0C2, #99CFC1, #4E6A63);
+    align-items: normal;
+}
