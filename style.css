@@ -41,3 +41,6 @@
     font-size: 35px; 
     align-items: baseline; 
 }
+.corpo_paragrafo{
+    text-align: justify;
+}
