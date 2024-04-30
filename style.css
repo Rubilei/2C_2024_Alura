@@ -25,7 +25,12 @@
 }
 .corpo{
     background-image: linear-gradient(to bottom, #9AD0C2, #99CFC1, #4E6A63);
-    align-items: normal;
+    
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
 }
 .corpo_imagem{
     width: 15%;
