@@ -27,3 +27,7 @@
     background-image: linear-gradient(to bottom, #9AD0C2, #99CFC1, #4E6A63);
     align-items: normal;
 }
+.corpo_imagem{
+    width: 15%;
+    align-items: normal;
+}
