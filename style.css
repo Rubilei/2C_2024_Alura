@@ -16,7 +16,7 @@
     font-size: 45px;
 }
 .cabecalho_imagem{
-    width: 15%;
+    width: 10%;
     align-items: normal;
 }
 .cabecalho_lista{
@@ -25,7 +25,6 @@
 }
 .corpo{
     background-image: linear-gradient(to bottom, #9AD0C2, #99CFC1, #4E6A63);
-    
     color: white;
     display: flex;
     justify-content: space-around;
@@ -33,6 +32,8 @@
     padding: 15px 0;
 }
 .corpo_imagem{
-    width: 15%;
-    align-items: normal;
+    width: 35%;
+}
+.corpo_paragrafo{
+   text-align: justify;
 }
