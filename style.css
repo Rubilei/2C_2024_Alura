@@ -42,7 +42,7 @@
     align-items: baseline; 
 }
 .corpo_paragrafo{
-    margin:  15px 0;
     padding: 15px 0;
     text-align: justify;
+    margin:  0 15px;
 }
