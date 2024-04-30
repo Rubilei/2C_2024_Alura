@@ -33,6 +33,7 @@
 }
 .corpo_imagem{
     width: 35%;
+    padding: auto;
 }
 .corpo_textos{
     display: flex;
