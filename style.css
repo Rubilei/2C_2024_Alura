@@ -3,13 +3,12 @@
     padding: 0;
 }
 .cabecalho{
-    background-color: #2D9596;
+    background-color: #2D9596; /* serve para cor do fundo */
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 15px 0;
-
 }
 .cabecalho_titulo{
     color: black;
