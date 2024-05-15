@@ -11,6 +11,11 @@
     padding: 15px 0;
 }
 .cabecalho_titulo{
+    .hurricane-regular {
+        font-family: "Hurricane", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
     color: black;
     font-size: 50px;
 }
@@ -46,3 +51,4 @@
     text-align: justify;
     margin:  0 25px;
 }
+.corpo_titulo
