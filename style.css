@@ -37,6 +37,10 @@
     width: 35%;    
     padding: 0 45px;
 }
+.copo_titulo{
+    font-family: "Hurricane", cursive;
+    font-weight: 400;
+}
 .corpo_textos{
     display: flex;
     flex-direction: column;
@@ -47,8 +51,4 @@
     padding: 15px 0;
     text-align: justify;
     margin:  0 25px;
-}
-.corpo_titulo{
-    font-family: "Hurricane", cursive;
-    font-weight: 400;
 }
