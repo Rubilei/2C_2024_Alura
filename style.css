@@ -38,10 +38,10 @@
     padding: 0 45px;
 }
 .copo_titulo{
+    align-self: center;
     font-family: "Hurricane", cursive;
     font-weight: 400;
     font-size: 65px;
-    align-items: center;
 }
 .corpo_textos{
     display: flex;
