@@ -11,9 +11,13 @@
     padding: 15px 0;
 }
 .cabecalho_titulo{
-    font-family: "Hurricane", cursive;
     color: black;
     font-size: 50px;
+.hurricane-regular {
+        font-family: "Hurricane", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }   
 }
 .cabecalho_imagem{
     width: 10%;
