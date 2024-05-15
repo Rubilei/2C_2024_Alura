@@ -13,11 +13,11 @@
 .cabecalho_titulo{
     color: black;
     font-size: 50px;
-.hurricane-regular {
+
         font-family: "Hurricane", cursive;
         font-weight: 400;
         font-style: normal;
-      }   
+      
 }
 .cabecalho_imagem{
     width: 10%;
