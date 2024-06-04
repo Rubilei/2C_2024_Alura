@@ -62,8 +62,8 @@
 .estudantes_todos{
     display: grid;
     grid-template-columns: 20% 20% 20%;
-    align-items: center;
-}
+    justify-content: space-around;
+  }
 .estudante_imagem1{
     height: 40%;
     padding: 12px 0;
