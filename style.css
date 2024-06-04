@@ -63,3 +63,7 @@
     display: grid;
     grid-template-columns: 20% 20% 20%;
 }
+.estudante_imagem1{
+    height: 60%;
+    padding: 12px 0;
+}
